@@ -4,10 +4,10 @@
 
 <h1>Uygulama görünümleri</h1> 
 
-![Alt text](image.png) 
+![image-1](Image/image.png) 
 
-![Alt text](image_2.png) 
+![image-2](Image/image_2.png) 
 
-![Alt text](image_3.png) 
+![image-3](Image/image_3.png) 
 
-![Alt text](image_4.png)
+![image-4](Image/image_4.png)
